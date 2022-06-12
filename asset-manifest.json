@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/location-sharing-modal/static/css/main.0a169786.css",
+    "main.js": "/location-sharing-modal/static/js/main.55d89eec.js",
+    "static/media/map-preview.png": "/location-sharing-modal/static/media/map-preview.f7d15f8db5cb97afe94f.png",
+    "static/media/upload-image.png": "/location-sharing-modal/static/media/upload-image.c0facc4635d27f6d6af5.png",
+    "index.html": "/location-sharing-modal/index.html",
+    "main.0a169786.css.map": "/location-sharing-modal/static/css/main.0a169786.css.map",
+    "main.55d89eec.js.map": "/location-sharing-modal/static/js/main.55d89eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a169786.css",
+    "static/js/main.55d89eec.js"
+  ]
+}
