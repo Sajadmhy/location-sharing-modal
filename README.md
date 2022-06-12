@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Version
 
-You can see the website in action <a href='https://sajadmhy.github.io/location-sharing-modal/#close'>here</a>.
+You can see the website in action <a href='https://sajadmhy.github.io/location-sharing-modal'>here</a>.
 
 ## Available Scripts
 
