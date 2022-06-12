@@ -1,0 +1,36 @@
+.popupTitle {
+    background-color: rgb(176, 255, 176);
+    color: rgb(2, 99, 2);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: left;
+}
+
+.close, .edit {
+    border-radius: 5px;
+    color: white;
+    margin: 0 2px;
+    border-style: none;
+    height: 20px;
+    font-size: 11px;
+}
+
+.close {
+    background-color: rgb(223, 145, 0);
+}
+
+.edit {
+    background-color: rgb(92, 201, 238);
+}
+
+.popupBtns {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.popupDetails {
+    margin: 5px;
+}
